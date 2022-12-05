@@ -1,0 +1,22 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f5f5f5;
+}
+.bg-prim{
+  background-color: #004a44;
+  color:white;
+}
+.bold-500{
+  font-weight: 500;
+}
+.border-0{
+  border: 0px;
+}
+.icon-stat{
+  color: #004a44;
+  font-size: 35px;
+}
+
+.stat .card{
+  border-left: 2px solid #004a44;
+}
